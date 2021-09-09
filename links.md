@@ -10,7 +10,7 @@
 3. Flutter official channel
 
 ## Mandatory Training Links:
-1. Firebase playlist: https://www.youtube.com/playlist?list=PLl-K7zZEsYLluG5MCVEzXAQ7ACZBCuZg
+1. Firebase playlist: https://youtube.com/playlist?list=PLl-K7zZEsYLluG5MCVEzXAQ7ACZBCuZgZ
 2. Widget of the week: https://www.youtube.com/watch?v=b_sQ9bMltGU
 3. All other training modules informed
 
